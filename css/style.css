@@ -1,0 +1,15 @@
+
+input	{
+	margin-top: 15px;
+		}
+
+.cities {
+	display: none;
+}
+.active.cities {
+	display: inline-block;
+}
+
+select {
+	margin-top: 15px;
+}
